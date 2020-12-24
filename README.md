@@ -1,5 +1,8 @@
 ### Hi there 👋
-## I am a Frontend Developer with extensive experience in creating modular and scalable front-end architectures. Skilled in building feature rich, visually compelling, and high performant web applications from scratch using ReactJS and JavaScript. I also love contributing to open source projects
+#### I am a Frontend Developer with extensive experience in creating modular and scalable front-end architectures. Skilled in building feature rich, visually compelling, and high performant web applications from scratch using ReactJS and JavaScript. I also love contributing to open source projects.
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on any React and Javascript project
+- 📫 How to reach me: amodukehindee@gmail.com
 <!--
 **iamkennis/iamkennis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
