@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am a Frontend Developer with extensive experience in creating modular and scalable front-end architectures. Skilled in building feature rich, visually compelling, and high performant web applications from scratch using ReactJS and JavaScript. I also love contributing to open source projects.
+#### I am a Frontend Developer looking forward to create and develop modular and scalable frontend architures, I also love to design quality user-friendly interface that drive easy and accessible web experience from scratch using ReactJS and JavaScript. I also love contributing to open source projects.
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on any React and Javascript project
 - 📫 How to reach me: amodukehindee@gmail.com
