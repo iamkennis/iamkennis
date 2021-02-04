@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning React/Redux/Graphql
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on any React and Javascript project
-- 📫 How to reach me: amodukehindee@gmail.com
+##📫 How to reach me 
+  -[Email]{amodukehindee@gmail.com)
 - [LinkedIn](linkedin.com/in/amodukehinde)
 - [Twitter](https://twitter.com/iamkennis_)
 
