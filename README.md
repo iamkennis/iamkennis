@@ -6,7 +6,7 @@
 
 ## Find me around the web 🌍
 
-   amodukehindee@gmail.com
+- [Email](amodukehindee@gmail.com)
 - [LinkedIn](linkedin.com/in/amodukehinde)
 - [Twitter](https://twitter.com/iamkennis_)
 
