@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am a Frontend Developer looking forward to create and develop modular and scalable frontend architures, I also love to design quality user-friendly interface that drive easy and accessible web experience from scratch using ReactJS and JavaScript. I also love contributing to open source projects.
-- 🌱 I’m currently learning Graphql
+- 🌱 I’m currently learning React/Redux with Graphql
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on any React and Javascript project
 
@@ -18,7 +18,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/redux/redux.png"></code>
+
   
 
 <!--
