@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on any frontend project 
 - 🥑 Actively contributing to Open source projects
-- 📫 How to reach me: amodukehinde@gmail.com
+- 📫 How to reach me: amodukehindee@gmail.com
 - 😄 Pronouns: he/him
 
 
