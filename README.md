@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning DSA
-- 👯 I’m looking to collaborate on any frontend/bankend project 
+- 👯 I’m looking to collaborate on any frontend/backend open-source project 
 - 🥑 Actively contributing to Open source projects
 - 📫 How to reach me: amodukehindee@gmail.com
 - 😄 Pronouns: he/him
