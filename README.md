@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning Golang
 - 👯 I’m looking to collaborate on any frontend/backend open-source project 
 - 🥑 Actively contributing to Open source projects
 - 📫 How to reach me: amodukehindee@gmail.com
