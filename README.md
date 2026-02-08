@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning distributing system with Golang
 - 👯 I’m looking to collaborate on any frontend/backend open-source project 
-- 🥑 Actively contributing to Open source projects
+- 🥑 Actively contributing to open-source projects
 - 📫 How to reach me: amodukehindee@gmail.com
 - 😄 Pronouns: he/him
 
